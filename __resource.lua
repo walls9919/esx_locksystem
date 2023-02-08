@@ -17,8 +17,7 @@ server_scripts {
     "config/shared.lua",
     "server/chatCommand.lua",
     "server/server.lua",
-    'locales/en.lua',
-    'locales/pl.lua'
+    'locales/en.lua'
 }
 
 ui_page 'client/html/index.html'
